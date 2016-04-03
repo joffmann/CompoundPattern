@@ -1,0 +1,6 @@
+E:\Projects\CompoundPattern\CompoundPattern\bin\Debug\CompoundPattern.exe.config
+E:\Projects\CompoundPattern\CompoundPattern\bin\Debug\CompoundPattern.exe
+E:\Projects\CompoundPattern\CompoundPattern\bin\Debug\CompoundPattern.pdb
+E:\Projects\CompoundPattern\CompoundPattern\obj\Debug\CompoundPattern.csprojResolveAssemblyReference.cache
+E:\Projects\CompoundPattern\CompoundPattern\obj\Debug\CompoundPattern.exe
+E:\Projects\CompoundPattern\CompoundPattern\obj\Debug\CompoundPattern.pdb
