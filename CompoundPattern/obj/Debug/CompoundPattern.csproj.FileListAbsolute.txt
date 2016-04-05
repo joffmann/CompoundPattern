@@ -4,3 +4,6 @@ E:\Projects\CompoundPattern\CompoundPattern\bin\Debug\CompoundPattern.pdb
 E:\Projects\CompoundPattern\CompoundPattern\obj\Debug\CompoundPattern.csprojResolveAssemblyReference.cache
 E:\Projects\CompoundPattern\CompoundPattern\obj\Debug\CompoundPattern.exe
 E:\Projects\CompoundPattern\CompoundPattern\obj\Debug\CompoundPattern.pdb
+F:\github\CompoundPattern\CompoundPattern\bin\Debug\CompoundPattern.exe.config
+F:\github\CompoundPattern\CompoundPattern\obj\Debug\CompoundPattern.exe
+F:\github\CompoundPattern\CompoundPattern\obj\Debug\CompoundPattern.pdb
